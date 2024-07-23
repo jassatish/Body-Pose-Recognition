@@ -1,0 +1,3 @@
+Data is collected using Mediapipe's Blaze pose landmark model.
+7 different pose recorded : stand, jump, duck, punch, throw, power, kick.
+500 images 128 x 128 for each class.
